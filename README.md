@@ -15,4 +15,4 @@
 ### 3. 순서도는 main branch를 참고하시기 바랍니다.
 
 ### 4. 도움을 준 친구
-  - hjun-park "Backend Developer"(github "https://github.com/hjun-park")
+  - P군
